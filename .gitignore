@@ -1,2 +1,4 @@
 envs/dev/
 .ipynb_checkpoints
+.obsidian
+__pycache__

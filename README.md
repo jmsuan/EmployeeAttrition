@@ -4,8 +4,8 @@ An application of machine learning that helps reduce organizational resource str
 By Jonathan Lane
 ## Overview
 The goal of this project is to use [an open data set provided by IBM](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data) to determine what employee features contribute to the likelihood of their attrition (leaving/quitting the company). This project is an introductory machine learning project of mine, and leverages the extensive classification model options provided by the scikit-learn library. Ultimately, the model achieved an impressive F1-score of approximately 0.85, which is relatively high considering the size of the dataset (roughly 122KB). The model also exceeds the following goals I set prior to training: 
- - >80% accuracy
- - >0.70 AUC_ROC value
+ - \>80% accuracy
+ - \>0.70 AUC_ROC value
 ## Features
 - A **predictive method** of determining the likelihood of any employee's attrition.
 - Two **descriptive figures** describing correlations found in the [available data set](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset/data).
